@@ -21,7 +21,6 @@
             android:layout_weight="0"
             android:src="@drawable/choose_wisely" />
 
-<<<<<<< HEAD
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -31,7 +30,5 @@
             android:layout_weight="0"
             android:onClick="playPressed"/>
 
-=======
->>>>>>> ce7896ae33f74d24f202da68ee574e00f3b9a79d
     </LinearLayout>
 </RelativeLayout>

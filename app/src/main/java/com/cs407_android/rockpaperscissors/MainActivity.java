@@ -3,10 +3,6 @@ package com.cs407_android.rockpaperscissors;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-<<<<<<< HEAD
-import android.text.method.Touch;
-=======
->>>>>>> ce7896ae33f74d24f202da68ee574e00f3b9a79d
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -35,13 +31,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void playPressed(View view) {
-<<<<<<< HEAD
         //TODO: Put to start game play activity - DONZO
         Intent myIntent = new Intent(MainActivity.this, PlayActivity.class);
         MainActivity.this.startActivity(myIntent);
-=======
-        //TODO: Put to start game play activity
->>>>>>> ce7896ae33f74d24f202da68ee574e00f3b9a79d
     }
 
     @Override
